@@ -9,7 +9,6 @@ Pomodoro app, allows to start 25 min timers, pause and reset.
 ## React skills used in this app
 
 - Creating timers
-
 - React state w/ useState()
 - React refs w/ useRef()
 - Tailwind animations
